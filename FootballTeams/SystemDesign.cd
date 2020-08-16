@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FootballTeams.SeasonTicketInfo">
+    <Position X="6.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAGAAAAAAABhAIIIIAACAAAAEABAAA=</HashCode>
+      <FileName>SeasonTicketInfo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootballTeams.CorporateSeasonTickets">
+    <Position X="3" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAASAAAAAAAACCAAAAAAAAEAAAACAAA=</HashCode>
+      <FileName>CorporateSeasonTickets.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootballTeams.PrivateSeasonTickets">
+    <Position X="10.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAQACAAA=</HashCode>
+      <FileName>PrivateSeasonTickets.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
